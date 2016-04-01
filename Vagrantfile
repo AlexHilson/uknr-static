@@ -12,5 +12,6 @@ Vagrant.configure(2) do |config|
    config.vm.provision "shell", inline: <<-SHELL
      apt-get update
      apt-get install -y ruby zlib1g-dev
+     bundle install --gemfile /vagrant/Gemfile
    SHELL
 end
