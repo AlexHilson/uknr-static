@@ -1,1 +1,1 @@
-cd /vagrant/uknr/ && jekyll serve --host 0.0.0.0
+cd /vagrant/uknr/ && python -mSimpleHTTPServer 4000
