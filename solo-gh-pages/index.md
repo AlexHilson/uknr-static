@@ -2,11 +2,11 @@
 layout: default
 ---
 
-The first annual UK Android: Netrunner rankings! Each player in the country will have the chance to be one of the 24 to earn an invitation to the final tournament in December 2016. Players can earn points by making the cut or better in Store Championships, BABW event, Regionals and UK Nationals. The final will be free and offer custom swag, promos and of course much glory.
+The first annual UK Android: Netrunner rankings (organised by Laurie Poulter)! Each player in the country will have the chance to be one of the 24 to earn an invitation to the final tournament in December 2016. Players can earn points by making the cut or better in Store Championships, BABW event, Regionals and UK Nationals. The final will be free and offer custom swag, promos and of course much glory.
 
 Obviously no ranking system can be perfect but hopefully this will add a little fun to the year.
 
-## Rules
+## <a name="rules"></a>Rules
 
 * UK Tournaments only. Must be at least 12 players, have a cut to top x and be either a Store Championship, a Regional or UK Nationals. If they take place best BABW performance will also count towards a players total at SC level.
 * Only the best 3 Store Championships and best 2 Regionals will count towards a players total.

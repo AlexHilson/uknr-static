@@ -12,8 +12,9 @@
 <body>
   <div class="container">
     <h1><a href="./">{{ site.tag_text }}</a></h1>
+    <a href="#rules">Rules</a> - <a href="#standings">Standings</a> - <a href="http://www.netrunners.co.uk">Netrunners.co.uk</a><br /><br />
     {{ content }}
-    <h2>Standings</h2>
+    <a name="standings"></a><h2>Standings</h2>
     <table>
     <thead>
       {% for row in site.data.google_sheet limit:1 %}
